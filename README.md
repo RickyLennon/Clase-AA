@@ -3,4 +3,4 @@
 
 Curso de la **Maestría en Ciencia de Datos** de la [Universidad Autónoma de Nuevo León](https://uanl.mx).
 
-- [Tarea 1](./Clase-AA/README.md)
+- [Tarea 1](./Clase2/README.md)
